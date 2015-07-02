@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Outbreak</string>
+    <string name="title_activity_outbreak_map">Outbreak Map</string>
+</resources>
