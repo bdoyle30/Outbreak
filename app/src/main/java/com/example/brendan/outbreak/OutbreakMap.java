@@ -11,7 +11,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 public class OutbreakMap extends FragmentActivity {
 
     private GoogleMap mMap; // Might be null if Google Play services APK is not available.
-
+    //Testing git issue
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
